@@ -1,0 +1,11 @@
+call plug#begin('~/.config/nvim/plugged')
+
+Plug 'preservim/nerdtree'
+Plug 'vim-airline/vim-airline'
+Plug 'rafi/awesome-vim-colorschemes'
+Plug 'junegunn/fzf.vim'
+Plug 'neoclide/coc.nvim'
+Plug 'preservim/tagbar'
+Plug 'jiangmiao/auto-pairs'
+
+call plug#end()
